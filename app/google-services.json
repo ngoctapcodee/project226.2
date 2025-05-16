@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "557395874485",
+    "firebase_url": "https://maybay-adf98-default-rtdb.firebaseio.com",
+    "project_id": "maybay-adf98",
+    "storage_bucket": "maybay-adf98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557395874485:android:5919ea210d35956b3b64fc",
+        "android_client_info": {
+          "package_name": "com.example.fly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJG-pL2OptDznpJm0c1wwNkAWuML3xrbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557395874485:android:a6cc8fba1db2c0e73b64fc",
+        "android_client_info": {
+          "package_name": "com.example.maybay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJG-pL2OptDznpJm0c1wwNkAWuML3xrbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557395874485:android:ea13f11f1731ca043b64fc",
+        "android_client_info": {
+          "package_name": "com.uilover.project2262"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJG-pL2OptDznpJm0c1wwNkAWuML3xrbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
